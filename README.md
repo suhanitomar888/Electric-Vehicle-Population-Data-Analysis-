@@ -109,8 +109,8 @@ Run the notebook cells in order to reproduce the analysis
 🔮 Future Scope
 Add interactive dashboards using Plotly or Streamlit
 
-Build machine learning models to predict EV growth
+Build machine learning models to predict EV growth.
 
-Use clustering to segment cities based on EV adoption behavior
+Use clustering to segment cities based on EV adoption behavior.
 
-Visualize EV charging station coverage with GIS tools
+Visualize EV charging station coverage with GIS tools.
